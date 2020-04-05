@@ -28,4 +28,4 @@ Uninstallation Step : (Remove Logo From Termux)
 
 2) Done !!!
 
-Join t.me/zonerschat
+Join https://t.me/zonerschat

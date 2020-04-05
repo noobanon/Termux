@@ -2,7 +2,7 @@
 #
 #
 # Termux Banner
-# Banner by Sutariya Parixit (8h4i)
+# Banner by Origanl Dev Reedit By ANON
 # _____Do Not Copy Or Modify_____
 #
 #

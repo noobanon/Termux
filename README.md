@@ -1,7 +1,7 @@
 # Permanent Termux Banner
 
 
-<img algin="center" src="https://i.imgur.com/gFaneN7.jpg" alt="Smiley face" width="150" height="150">
+<center> <img src="https://i.imgur.com/gFaneN7.jpg" alt="Smiley face" width="450" height="450"> </center>
 
 
 Installation Step :

@@ -1,9 +1,9 @@
 # Termux Banner
-#Script by Parixit Sutariya
+
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) <code>git clone https://github.com/noobanon/Termux</code>
 
 
 2) cd Termux-Banner
@@ -27,3 +27,5 @@ Uninstallation Step : (Remove Logo From Termux)
 1) bash remove.sh
 
 2) Done !!!
+
+Join t.me/zonerschat
